@@ -1,0 +1,21 @@
+C:\Users\spijk>cd C:/School files
+
+C:\School files>mkdir ''Leren programmeren''
+
+C:\School files>mkdir ''Leren programmeren
+A subdirectory or file ''Leren already exists.
+Error occurred while processing: ''Leren.
+
+C:\School files>mkdir ''Leren programmeren''
+
+C:\School files>mkdir "Leren programmeren"
+
+C:\School files>mkdir "assesments"
+
+C:\School files>mkdir "kladblaadjes"
+
+C:\School files>mkdir "Rommel"
+
+C:\School files>rmdir "Leren programmeren" "assesments" "kladblaadjes" "Rommel"
+
+C:\School files>
